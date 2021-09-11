@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Random-quote-generator/static/css/main.68dea3be.chunk.css",
+    "main.js": "/Random-quote-generator/static/js/main.6638860a.chunk.js",
+    "main.js.map": "/Random-quote-generator/static/js/main.6638860a.chunk.js.map",
+    "runtime-main.js": "/Random-quote-generator/static/js/runtime-main.70f29e84.js",
+    "runtime-main.js.map": "/Random-quote-generator/static/js/runtime-main.70f29e84.js.map",
+    "static/js/2.9be96496.chunk.js": "/Random-quote-generator/static/js/2.9be96496.chunk.js",
+    "static/js/2.9be96496.chunk.js.map": "/Random-quote-generator/static/js/2.9be96496.chunk.js.map",
+    "index.html": "/Random-quote-generator/index.html",
+    "static/css/main.68dea3be.chunk.css.map": "/Random-quote-generator/static/css/main.68dea3be.chunk.css.map",
+    "static/js/2.9be96496.chunk.js.LICENSE.txt": "/Random-quote-generator/static/js/2.9be96496.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Random-quote-generator/static/media/city.66512aa4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70f29e84.js",
+    "static/js/2.9be96496.chunk.js",
+    "static/css/main.68dea3be.chunk.css",
+    "static/js/main.6638860a.chunk.js"
+  ]
+}
